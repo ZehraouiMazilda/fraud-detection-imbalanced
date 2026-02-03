@@ -37,8 +37,9 @@ The project is divided into two main performance goals:
 * `/reports`: Generated figures and final analysis reports.
 
 ## 👥 Authors
-* **Mazilda**
-* *[Name of your teammate]*
+* **Aya MECHERI**
+* **Maissa LADJMI**
+* **Mazilda ZEHRAOUI**
 
 ---
 *Project carried out as part of the Master 2 SISE curriculum (2025-2026).*
