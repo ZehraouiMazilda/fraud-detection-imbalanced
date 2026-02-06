@@ -284,23 +284,6 @@ If you use this work, please cite:
 
 ---
 
-## ⚠️ Important Notes
-
-1. **Dataset Not Included:** Due to data privacy, the original `.npy` files are not included in this repository. Contact the course instructor for access.
-
-2. **Computational Requirements:** 
-   - CPU-based training (no GPU needed)
-   - ~4GB RAM minimum
-   - Total runtime: <15 minutes for all notebooks
-
-3. **Known Limitations:**
-   - No hyperparameter optimization performed
-   - Only tested on single train/test split (no cross-validation)
-   - Self-training limited to 2 iterations
-   - Analysis focused on Target 0 (other targets available but not thoroughly analyzed)
-
----
-
 For questions about this project:
 
 - **Authors:** Aya Macheri, Maissa Lajimi, Mazilda Zehraoui.
