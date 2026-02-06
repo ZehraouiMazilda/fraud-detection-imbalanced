@@ -41,7 +41,7 @@ We work with real anonymized check transaction data from ATOS Worldline, contain
 
 ## 📊 Results Summary
 
-### Part 1: Imbalanced Learning (Source Dataset 0)
+### Part 1: Imbalanced Learning 
 
 | Method | Recall | Precision | F1-Score | AUC-ROC | Frauds Missed |
 |--------|--------|-----------|----------|---------|---------------|
@@ -51,7 +51,7 @@ We work with real anonymized check transaction data from ATOS Worldline, contain
 
 **Winner:** Cost-Sensitive XGBoost achieves the highest recall (98.75%), missing only 27 frauds.
 
-### Part 2: Domain Adaptation (Target Dataset 0)
+### Part 2: Domain Adaptation 
 
 | Method | Recall | F1-Score | AUC-ROC | Frauds Detected |
 |--------|--------|----------|---------|-----------------|
