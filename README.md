@@ -256,7 +256,7 @@ To reproduce results:
 - Class imbalance: 5:1 (16% fraud)
 
 **Target Domain:**
-- 3 datasets (kaggle_target_cate_0 to 2)
+- 4 datasets (kaggle_target_cate_0 to 3)
 - ~63,000 training samples (unlabeled)
 - ~21,000 test samples (labeled)
 - Class imbalance: 30:1 (3% fraud)
