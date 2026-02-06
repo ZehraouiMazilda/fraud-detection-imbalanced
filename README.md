@@ -106,7 +106,7 @@ fraud-detection-project/
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/ZehraouiMazilda/fraud-detection-imbalanced
 cd fraud-detection-project
 ```
 
@@ -231,22 +231,6 @@ To reproduce results:
 1. Use exact package versions from `requirements.txt`
 2. Run notebooks in order (01 → 02 → 03)
 3. Results should match report within ±0.5% due to numerical precision
-
----
-
-## 📝 Citation
-
-If you use this work, please cite:
-
-```bibtex
-@techreport{macheri2026fraud,
-  title={Fraud Detection on Imbalanced Data and Domain Adaptation},
-  author={Macheri, Aya and Zehraoui, Mazilda and Lajimi, Maissa},
-  institution={Université Lumière Lyon 2},
-  year={2026},
-  type={Master's Project Report}
-}
-```
 
 ---
 
